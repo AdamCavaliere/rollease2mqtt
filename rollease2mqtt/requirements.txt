@@ -1,4 +1,4 @@
 pyserial
 aioserial
-hbmqtt
+amqtt
 configargparse
