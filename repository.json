@@ -1,5 +1,5 @@
 {
-    "name": "Rollease2MQTT Hassio Add-on",
-    "url": "https://github.com/quentinsf/rollease2mqtt",
-    "maintainer": "Quentin Stafford-Fraser <quentin@pobox.com>"
+    "name": "Rollease2MQTT HomeAssistant Add-on",
+    "url": "https://github.com/adamcavaliere/rollease2mqtt",
+    "maintainer": "Adam Cavaliere"
   }
