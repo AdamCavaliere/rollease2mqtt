@@ -14,8 +14,8 @@ import time
 
 import configargparse
 
-from hbmqtt.client import MQTTClient, ClientException
-from hbmqtt.mqtt.constants import QOS_1, QOS_2
+from amqtt.client import MQTTClient, ClientException
+from amqtt.mqtt.constants import QOS_1, QOS_2
 
 from typing import Optional, Tuple, List, Dict
 
